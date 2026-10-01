@@ -1,0 +1,6 @@
+{
+  "name": "College Fee Management System",
+  "description": "Comprehensive college fee management and finance ERP portal for Kalasalingam Academy of Research and Education.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
